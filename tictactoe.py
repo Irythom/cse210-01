@@ -1,7 +1,5 @@
 # Ryan Weinheimer 1/16/2022
 
-# Ryan Weinheimer 1/16/2022
-
 def main():
     player = next_player("")
     game = create_game()
